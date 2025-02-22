@@ -1,3 +1,4 @@
+"use client"
 
 import CardList from "@/components/cardList/CardList";
 import styles from "./blogPage.module.css";
